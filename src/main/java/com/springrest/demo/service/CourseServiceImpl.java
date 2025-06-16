@@ -44,7 +44,8 @@ public class CourseServiceImpl implements CourseService {
 //			}
 //		}
 		//return c;
-		return courseDao.getOne(courseId);
+			//return courseDao.getOne(courseId);
+		 return courseDao.findById(courseId).orElse(null);  
 	}
 
 	@Override
