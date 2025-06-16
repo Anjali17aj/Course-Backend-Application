@@ -10,7 +10,6 @@ This is a simple Spring Boot backend project for managing courses. It provides R
 - [API Endpoints](#api-endpoints)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
